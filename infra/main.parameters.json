@@ -16,6 +16,9 @@
     },
     "apimSku": {
       "value": "${APIM_SKU=Consumption}"
-    }
+    },
+    "resourceGroupName": {
+      "value": "rg-raptor-dev"
+    }    
   }
 }
